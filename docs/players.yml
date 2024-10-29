@@ -1,7 +1,7 @@
- Name: Serena Williams // Stirng
-  Sport: Tennis // String
-  Team: // Object
+ Name: Serena Williams # Stirng
+  Sport: Tennis # String
+  Team: // # Object (Array)
     Name: N/A
     City: N/A
-  Position: Player // String
-  Age: 41 // Number
+  Position: Player # String
+  Age: 41 # Number
